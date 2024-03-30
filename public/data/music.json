@@ -1,0 +1,79 @@
+[
+  {
+    "id": 393960841,
+    "mid": "003Y997x0AUDHK1",
+    "name": "忘川彼岸 (DJ名龙版)",
+    "singer": "零一九零贰",
+    "url": "http://localhost:9090/data/musicApp/music/忘川彼岸%20(DJ名龙版)%20-%20零一九零贰.mp3",
+    "lyric": "http://localhost:9090/data/musicApp/lyric/零一九零贰-忘川彼岸(DJ名龙版).lrc",
+    "duration": "180",
+    "pic": "https://y.gtimg.cn/music/photo_new/T002R800x800M000001qbyMM2byl8Q.jpg?max_age=2592000",
+    "album": "JJ的咖啡调调, Vol. 2"
+  },
+  {
+    "id": 393960842,
+    "mid": "003Y997x0AUDHK2",
+    "name": "可能",
+    "singer": "程响",
+    "url": "http://localhost:9090/data/musicApp/music/程响-可能.mp3",
+    "lyric": "http://localhost:9090/data/musicApp/lyric/程响-可能.lrc",
+    "duration": "218",
+    "pic": "https://y.gtimg.cn/music/photo_new/T002R800x800M000001qbyMM2byl8Q.jpg?max_age=2592000",
+    "album": "程响-可能"
+  },
+  {
+    "id": 393960843,
+    "mid": "003Y997x0AUDHK3",
+    "name": "海阔天空",
+    "singer": "Beyond",
+    "url": "http://localhost:9090/data/musicApp/music/Beyond-海阔天空.mp3",
+    "lyric": "http://localhost:9090/data/musicApp/lyric/Beyond-海阔天空.lrc",
+    "duration": "324",
+    "pic": "https://y.gtimg.cn/music/photo_new/T002R800x800M000001qbyMM2byl8Q.jpg?max_age=2592000",
+    "album": "Beyond-海阔天空"
+  },
+  {
+    "id": 393960844,
+    "mid": "003Y997x0AUDHK4",
+    "name": "闻人听書_-一笑江湖(DJ弹鼓版)",
+    "singer": "闻人听書_-一笑江湖(DJ弹鼓版)",
+    "url": "http://localhost:9090/data/musicApp/music/闻人听書_-一笑江湖(DJ弹鼓版).mp3",
+    "lyric": "http://localhost:9090/data/musicApp/lyric/闻人听書_-一笑江湖(DJ弹鼓版).lrc",
+    "duration": "166",
+    "pic": "https://y.gtimg.cn/music/photo_new/T002R800x800M000001qbyMM2byl8Q.jpg?max_age=2592000",
+    "album": "闻人听書_-一笑江湖(DJ弹鼓版)"
+  },
+  {
+    "id": 393960845,
+    "mid": "003Y997x0AUDHK5",
+    "name": "周杰伦-稻香",
+    "singer": "周杰伦-稻香",
+    "url": "http://localhost:9090/data/musicApp/music/周杰伦-稻香.mp3",
+    "lyric": "http://localhost:9090/data/musicApp/lyric/周杰伦-稻香.lrc",
+    "duration": "223",
+    "pic": "https://y.gtimg.cn/music/photo_new/T002R800x800M000001qbyMM2byl8Q.jpg?max_age=2592000",
+    "album": "周杰伦-稻香"
+  },
+  {
+    "id": 393960846,
+    "mid": "003Y997x0AUDHK6",
+    "name": "张杰-三生三世",
+    "singer": "张杰-三生三世",
+    "url": "http://localhost:9090/data/musicApp/music/张杰-三生三世.mp3",
+    "lyric": "http://localhost:9090/data/musicApp/lyric/张杰-三生三世.lrc",
+    "duration": "257",
+    "pic": "https://y.gtimg.cn/music/photo_new/T002R800x800M000001qbyMM2byl8Q.jpg?max_age=2592000",
+    "album": "张杰-三生三世"
+  },
+  {
+    "id": 393960847,
+    "mid": "003Y997x0AUDHK7",
+    "name": "赵乃吉-当",
+    "singer": "赵乃吉-当",
+    "url": "http://localhost:9090/data/musicApp/music/赵乃吉-当.mp3",
+    "lyric": "http://localhost:9090/data/musicApp/lyric/赵乃吉-当.lrc",
+    "duration": "241",
+    "pic": "https://y.gtimg.cn/music/photo_new/T002R800x800M000001qbyMM2byl8Q.jpg?max_age=2592000",
+    "album": "赵乃吉-当"
+  }
+]
